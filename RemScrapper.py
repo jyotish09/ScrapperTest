@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup as BS
-from reportlab.pdfgen import canvas
 import re
 
 payload= {'username':' ','password':' ', 'login':'Log In'}
